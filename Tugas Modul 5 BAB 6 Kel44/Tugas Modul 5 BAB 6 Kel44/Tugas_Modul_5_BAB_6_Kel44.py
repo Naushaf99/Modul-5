@@ -60,6 +60,6 @@ jawab = int(input(" Masukkan Angka Tanggapan Anda "))
 if jawab == 1:
     print("Terima Kasih atas Tanggapan Anda")
 else:
-    print("Mohon Maaf atas kekurangan program kami")
+    print("Mohon Maaf atas kekurangan program kamii")
 
 import perusahaan
